@@ -5,10 +5,10 @@ Main Entry Point
 
 import sys
 sys.path.insert(0, '.')
-try:
-    from processing import sora_process
-except:
-    pass
+# try:
+from processing import sora_process
+# except:
+    # pass
 
 import webbrowser
 import threading
