@@ -128,19 +128,19 @@ The manual process is outlined below. macOS users can opt for the simplified met
 
 ### Quick Start
 
-Windows/Linux installation requires this guide; macOS users get the [DMG file](../../releases).  
+Windows and Linux users consult the manual below; macOS users can use the [DMG file](../../releases).
 
 
 
 
 
-Confirm Git and Python setup on Windows.
+Make sure you have Git and Python installed.
 
-Download Git for Windows: https://git-scm.com/install/windows  
+https://git-scm.com/install/windows  
 
-Download Python for Windows: https://www.python.org/ftp/python/3.13.12/python-3.13.12-amd64.exe  
+https://www.python.org/ftp/python/3.13.12/python-3.13.12-amd64.exe  
 
-Proceed to run GIT CMD.
+Launch GIT CMD app.
 
 
 
