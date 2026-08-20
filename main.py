@@ -9,7 +9,7 @@ from utils import video_io
 from pathlib import Path
 
 
-video_io.run_sync(FORCE_SYNC=True)
+video_io.run_sync()
 
 def _banner() -> Panel:
     return Panel.fit(
